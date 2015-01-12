@@ -1,0 +1,12 @@
+package util;
+ public class BitUtils {
+ private static void process(byte[] b) {}
+ }
+ package app; 2
+public class SomeApp {
+ public static void main(String[] args) {
+ byte[] bytes = new byte[256];
+ // insert code here
+ }
+ }
+
